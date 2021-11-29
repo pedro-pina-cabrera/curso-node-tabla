@@ -1,6 +1,11 @@
-#NOTAS
-Notas del readme
+
+
+## Multiplicar Console App
+
+Esta es una aplicación para generar archivos de tablas de multiplicar
+
+Ejecutar este comando
 
 ```
-   Esto es el primer commit
+npm install
 ```
